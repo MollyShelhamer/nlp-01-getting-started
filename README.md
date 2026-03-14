@@ -123,6 +123,9 @@ git push -u origin main
 
 </details>
 
+## Modifications
+-Changed background color of the wordcloud in web_words_shelhamer.ipynb from white to pink.
+
 ## Notes
 
 - Use the **UP ARROW** and **DOWN ARROW** in the terminal to scroll through past commands.
